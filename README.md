@@ -8,6 +8,3 @@ We have to perform multi-class classification on MNIST dataset containing 28x28 
 
 ![image](https://user-images.githubusercontent.com/102180459/167033647-03f09b44-24ae-44fc-b845-01ae4c4a78fa.png)
 
-![image](https://user-images.githubusercontent.com/102180459/167033660-4e617305-d854-4a76-9977-71f217da7315.png)
-
-![image](https://user-images.githubusercontent.com/102180459/167033676-3a97e6cf-98ae-4c63-8352-dbb699a6a395.png)
