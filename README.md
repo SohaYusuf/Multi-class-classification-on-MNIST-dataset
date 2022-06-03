@@ -2,12 +2,7 @@
 
 We have to perform multi-class classification on MNIST dataset containing 28x28 images (each image contains a single digit from 0-9). We will train a deep neural network with an input layer of 784 nodes, two hidden layers of 100 nodes each and an output layer of 10 nodes. We divide the dataset into 50,000 images for training and 4000 images for testing. Finally, we plot training loss, testing loss, training accuracy, testing accuracy and classification error for each digit to evaluate the performance of the model.
 
-
-![image](https://user-images.githubusercontent.com/102180459/167033605-38c625b9-59b9-428b-baf2-ad4d84bd3b2d.png)
-
 ![image](https://user-images.githubusercontent.com/102180459/167033612-7b922eb7-6f80-4e4e-8202-2d28eaa0a2be.png)
-
-![image](https://user-images.githubusercontent.com/102180459/167033622-b03a879b-c43e-4c82-bea1-3eb186e37908.png)
 
 ![image](https://user-images.githubusercontent.com/102180459/167033631-42189f04-bc22-4f9a-9d1b-26d012ed7745.png)
 
